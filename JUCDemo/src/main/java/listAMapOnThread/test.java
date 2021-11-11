@@ -22,13 +22,13 @@ public class test {
 //        arrayListNotSafe();
 //        vectorIsSafe();
 //        synchronizedList();
-//        copyOnWriteArrayList();
+        copyOnWriteArrayList();
         /**
          * HashSet
          */
 //        hashSetIsNotSafe();
 //        synchronizedSet();
-//        copyOnWriteArraySet();
+        copyOnWriteArraySet();
 
         /**
          * hashMap
